@@ -1,0 +1,8 @@
+.weather-box {
+  color: black;  /* ⚠ Yeh line add karo */
+}
+
+.weather-box {
+  background: rgba(174, 170, 170, 0.85); /* pehle 0.15 tha, ab 0.85 darker background */
+  color: #000; /* dark text for visibility */
+}
